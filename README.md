@@ -100,11 +100,11 @@ Layar `RegistrationScreen` bertindak sebagai *Single Source of Truth* yang mengo
 
 1. **Clone repository ini**:
    ```bash
-   git clone <URL_REPOSITORY_ANDA>
+   git clone https://github.com/krsendev/pertemuan-6-pemrograman-mobile.git
    ```
 2. **Buka di Android Studio**:
    - Pilih menu **File ➜ Open...**.
-   - Arahkan ke direktori `main_program` (bukan folder pembungkus luar).
+   - Arahkan ke direktori hasil clone (`pertemuan-6-pemrograman-mobile`).
 3. **Gradle Sync**:
    - Tunggu hingga Android Studio menyelesaikan sinkronisasi dependencies via Gradle Catalog (`libs.versions.toml`).
 4. **Jalankan Aplikasi**:
