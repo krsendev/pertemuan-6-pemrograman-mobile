@@ -103,8 +103,7 @@ Layar `RegistrationScreen` bertindak sebagai *Single Source of Truth* yang mengo
    git clone https://github.com/krsendev/pertemuan-6-pemrograman-mobile.git
    ```
 2. **Buka di Android Studio**:
-   - Pilih menu **File ➜ Open...**.
-   - Arahkan ke direktori hasil clone (`pertemuan-6-pemrograman-mobile`).
+   - Buka project melalui menu **File ➜ Open...** pada Android Studio.
 3. **Gradle Sync**:
    - Tunggu hingga Android Studio menyelesaikan sinkronisasi dependencies via Gradle Catalog (`libs.versions.toml`).
 4. **Jalankan Aplikasi**:
@@ -130,12 +129,4 @@ Layar `RegistrationScreen` bertindak sebagai *Single Source of Truth* yang mengo
 
 ---
 
-## 📸 Dokumentasi Tangkapan Layar
-
-| Tampilan Utama (Awal) | Validasi Gagal (Semua Kosong) | Validasi NIM (Simbol Ditolak) | Validasi Berhasil (Sukses) |
-| :---: | :---: | :---: | :---: |
-| *(Lampirkan `01-tampilan-utama.png`)* | *(Lampirkan `02-validasi-gagal-kosong.png`)* | *(Lampirkan `03-validasi-nim-simbol.png`)* | *(Lampirkan `04-validasi-berhasil.png`)* |
-
----
-
-*Laporan dan dokumentasi ini disusun untuk memenuhi tugas praktikum Pemrograman Mobile Pertemuan 6 UMSIDA.*
+*Project ini disusun untuk memenuhi tugas praktikum Pemrograman Mobile Pertemuan 6 UMSIDA.*
